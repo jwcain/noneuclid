@@ -1,0 +1,13 @@
+{
+"companyName": "AffinityForFun",
+"productName": "Agent967",
+"dataUrl": "Agent967-WebGL.data.unityweb",
+"asmCodeUrl": "Agent967-WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Agent967-WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Agent967-WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
